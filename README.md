@@ -14,7 +14,7 @@
 <img alt="javascript-icon" src="https://devstickers.com/assets/img/pro/i4eg.png" width="40">
   </a>
  
-  <a href="https://en.wikipedia.org/wiki/CCS3">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img alt="ccs-icon" src="https://devstickers.com/assets/img/pro/8pnd.png" width="40">
   </a>
  
